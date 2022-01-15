@@ -17,17 +17,13 @@ This repository contains the codes and resources which I used to learn the stand
 
 This (Tkinter) only is what I used for my first major project [Minesweeper-for-PC](https://github.com/samyak1409/Minesweeper-for-PC)! Check it out!
 
-### UI Samples
-
-1. Homepage (Grid Dimensions Input)
+#### UI Samples
 
 <img src="Screenshots/1%20Homepage.png">
 
-2. Game On
-
 <img src="Screenshots/3%20Game%20On.png">
 
-[More](https://github.com/samyak1409/Minesweeper-for-PC#readme)
+#### [More](https://github.com/samyak1409/Minesweeper-for-PC#readme)
 
 
-## Thank You
+## Thank You :)
