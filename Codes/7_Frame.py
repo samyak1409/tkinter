@@ -3,7 +3,7 @@ from tkinter import *
 
 main = Tk()
 main.title('YoYo')
-main.iconbitmap('MineIcon.ico')
+main.iconbitmap('Mine.ico')
 
 # Frame (that can contain other stuff!) to separate out things visually!
 my_frame = LabelFrame(main, text='My Frame', padx=360, pady=180)
