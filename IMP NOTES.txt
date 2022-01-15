@@ -1,0 +1,8 @@
+BEST TKINTER DOCUMENTATION => https://anzeljg.github.io/rin2/book2/2405/docs/tkinter/
+                              https://web.archive.org/web/20201105231837/http://effbot.org/tkinterbook/
+
+GEOMETRY MANAGERS => https://stackoverflow.com/questions/10927234/setting-the-position-on-a-button-in-python/10937799#:~:text=50,584
+
+MAKE WINDOW'S CLOSE BUTTON DO NOTHING => root.protocol(name='WM_DELETE_WINDOW', func=lambda: None)
+
+CHECKOUT FOR DIFFERENT TYPES OF WINDOWS => print(root.attributes()); where root is tkinter.Tk
